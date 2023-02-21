@@ -12,21 +12,7 @@ export const packGrid = () => {
       <div class="pack">
 				<div class="pack-download">
 				<iframe class="frametest" src=${pack.packFrame} frameborder="0" ></iframe>
-					<div class="link-pack" >
-
-						<div class="pack-year">
-							<h4>${pack.packYear}</h4>
-						</div>
-						
-						<div class="pack-img">
-							<img src="${pack.packImage}">
-						</div>
-						
-						<div class="pack-title">
-							<h4>${pack.packName}</h4>
-						</div>
-
-					</div>
+					
 				</div>
 			</div>
     `;
