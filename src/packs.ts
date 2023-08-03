@@ -24,4 +24,7 @@ export const packs: Pack2022[] = [
 	{
 		packFrame: 'https://dor1k8lp3ljt2.cloudfront.net/DescargasSoporte/Sentinel/rte-v2.html',
 	},
+	{
+		packFrame: 'https://dor1k8lp3ljt2.cloudfront.net/DescargasSoporte/Sentinel/rte-linux-v2.html',
+	},
 ];
