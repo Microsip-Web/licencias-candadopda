@@ -5,7 +5,7 @@ import './styles/packGrid.css';
 export const packGrid = () => {
 	const grid = document.createElement('div');
 	grid.classList.add('grid');
-	packs.slice(0, 4).forEach((pack) => {
+	packs.slice(0, 5).forEach((pack) => {
 		const packDiv = document.createElement('div');
 		packDiv.classList.add('pack');
 		packDiv.innerHTML = `
